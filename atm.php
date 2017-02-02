@@ -109,6 +109,7 @@
 							}
 					}
 				}
+				// for 500
 				else
 				{
 					$fivehundreds = floor($amt / 500);
